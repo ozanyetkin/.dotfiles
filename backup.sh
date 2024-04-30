@@ -35,7 +35,5 @@ sed '/^[ \t]*$/d' $backupPaths | while read filePath; do
   sleep 0.05
 done
 
-git add .
-
 echo -e "$sameLine🎉 Backup finished! You can review & commit your changes."
 

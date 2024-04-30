@@ -1,0 +1,19 @@
+[Added Associations]
+image/png=viewnior.desktop;
+image/jpeg=viewnior.desktop;
+image/gif=viewnior.desktop;
+image/svg+xml=viewnior.desktop;
+text/x-csrc=geany.desktop;
+text/plain=sublime_text.desktop;code_code.desktop;geany.desktop;f3d-plugin-occt.desktop;vim.desktop;
+application/x-shellscript=geany.desktop;
+application/x-theme=geany.desktop;
+application/json=code_code.desktop;geany.desktop;
+application/x-zerosize=geany.desktop;
+text/html=firefox.desktop;code_code.desktop;
+text/css=sublime_text.desktop;code_code.desktop;
+
+[Default Applications]
+image/gif=viewnior.desktop
+image/svg+xml=viewnior.desktop
+application/x-zerosize=geany.desktop
+x-scheme-handler/ferdium=ferdium.desktop

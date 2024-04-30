@@ -1,0 +1,16 @@
+font_size: 22
+theme: black-ice
+tree_1:
+  research:
+    papers-with-code: "https://paperswithcode.com/"
+    hugging-face: "https://huggingface.co/"
+  notes:
+    notion: "https://notion.so/"
+    keep: "https://keep.google.com/"
+tree_2:
+  development:
+    github: "https://github.com/"
+    stackoverflow: "https://stackoverflow.com/"
+  business:
+    gmail: "https://mail.google.com/"
+    drive: "https://drive.google.com/"

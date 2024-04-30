@@ -1,0 +1,50 @@
+{
+	"window-size": {
+		"width": 1920,
+		"height": 1170
+	},
+	"window-maximized": false,
+	"window-position": {
+		"x": 0,
+		"y": 30
+	},
+	"url": "https://music.youtube.com/watch?v=JKrdz3Tf9dA&list=RDAMVMncxouPW9Apk&index=0&sq=1",
+	"options": {
+		"tray": false,
+		"appVisible": true,
+		"autoUpdates": true,
+		"alwaysOnTop": false,
+		"hideMenu": true,
+		"hideMenuWarned": true,
+		"startAtLogin": false,
+		"disableHardwareAcceleration": false,
+		"removeUpgradeButton": false,
+		"restartOnConfigChanges": false,
+		"trayClickPlayPause": false,
+		"autoResetAppCache": false,
+		"resumeOnStart": true,
+		"likeButtons": "",
+		"proxy": "",
+		"startingPage": "",
+		"overrideUserAgent": false,
+		"usePodcastParticipantAsArtist": false,
+		"themes": []
+	},
+	"plugins": {
+		"notifications": {},
+		"video-toggle": {
+			"mode": "custom"
+		},
+		"precise-volume": {
+			"globalShortcuts": {}
+		},
+		"discord": {
+			"listenAlong": true
+		}
+	},
+	"__internal__": {
+		"migrations": {
+			"version": "3.3.6"
+		}
+	}
+}
